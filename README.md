@@ -10,9 +10,9 @@
 
 ### Functions of the calculator 
 -Numbers from 0 to 9
-- Button plus for addition 
-- Equals button for the answer
-- New Sum to clear/restart the equation
+-Button plus for addition 
+-Equals button for the answer
+-New Sum to clear/restart the equation
 
 ### People in the team
 Lockhart F Sainsbury
