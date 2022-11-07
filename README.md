@@ -3,6 +3,10 @@
 ### The perpose of the calculator
 -For 3 to 5 year old 
 
+### The design 
+-Base coulor grey(all of the number fuctions 0 to 9) 
+-Hot pink for the following funtions, Equals, New Sum and the addtion funtion 
+
 ### Functions of the calculator 
 -Numbers from 0 to 9
 - Button plus for addition 
