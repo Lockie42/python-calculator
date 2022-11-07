@@ -1,11 +1,12 @@
 # Customised Python-Calculator
 
-###the perpose of the calculator
+### The perpose of the calculator
 -For 3 to 5 year old 
 
 ### Functions of the calculator 
 -Numbers from 0 to 9
-- + for addition 
+- Button plus for addition 
+- Equals button for the answer
 - New Sum to clear/restart the equation
 
 ### People in the team
