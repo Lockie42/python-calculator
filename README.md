@@ -8,6 +8,8 @@
 
 -Hot pink for the following funtions, Equals, New Sum and the addtion funtion 
 
+![image]
+
 ### Functions of the calculator 
 -Numbers from 0 to 9
 
