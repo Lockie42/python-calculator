@@ -6,7 +6,9 @@
 ### The design 
 -Base coulor grey(all of the number fuctions 0 to 9) 
 
--Hot pink for the following funtions, Equals, New Sum and the addtion funtion 
+-Hot pink for the following funtions, Equals, New Sum and the addtion funtion
+
+-photo:
 
 ![image](https://github.com/Lockie42/python-calculator/blob/main/pyhton%20calc.jpg)
 
