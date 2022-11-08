@@ -8,7 +8,7 @@
 
 -Hot pink for the following funtions, Equals, New Sum and the addtion funtion 
 
-![image]
+![image](https://github.com/Lockie42/python-calculator/blob/main/pyhton%20calc.jpg)
 
 ### Functions of the calculator 
 -Numbers from 0 to 9
