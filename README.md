@@ -1,6 +1,6 @@
 # Customised Python-Calculator
 
-### The perpose of the calculator
+### The purpose of the calculator
 -For 3 to 5 year old 
 
 ### The design 
