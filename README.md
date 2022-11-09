@@ -4,7 +4,7 @@
 -For 3 to 5 year old 
 
 ### The design 
--Base coulor grey(all of the number fuctions 0 to 9) 
+-Base colour grey(all of the number fuctions 0 to 9) 
 
 -Hot pink for the following funtions, Equals, New Sum and the addtion funtion
 
